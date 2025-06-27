@@ -14,7 +14,7 @@
 | Name | Tech | Description |
 |------|------|-------------|
 | [Crypto Dashboard](https://github.com/amruta-amardeep-patil/Crypto-dashboard) | React | A modern crypto price tracker dashboard. |
-| [Node Auth System](https://github.com/amruta-amardeep-patil/chat-app-nodejs) | Node.js | Chat App. |
+| [Node JS Chat App](https://github.com/amruta-amardeep-patil/chat-app-nodejs) | Node.js | Chat App. |
 | [Firebase Contact Chat App](https://github.com/amruta-amardeep-patil/firebase-chat-app) | React, Firebase, Tailwind CSS, HTML, JS | Firebase Contact App |
 
 ---
