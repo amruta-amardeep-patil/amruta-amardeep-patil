@@ -16,6 +16,7 @@
 | [Crypto Dashboard](https://github.com/amruta-amardeep-patil/Crypto-dashboard) | React | A modern crypto price tracker dashboard. |
 | [Node JS Chat App](https://github.com/amruta-amardeep-patil/chat-app-nodejs) | Node.js | Chat App. |
 | [Firebase Contact Chat App](https://github.com/amruta-amardeep-patil/firebase-chat-app) | React, Firebase, Tailwind CSS, HTML, JS | Firebase Contact App |
+| Foodie Menu API - Filters (https://github.com/amruta-amardeep-patil/food-menu-api-integration) | React | food menus search app with filtering features
 
 ---
 
