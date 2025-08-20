@@ -1,4 +1,4 @@
-👩‍💻 Amruta Patil
+👩‍💻 Amruta Patil/ Zepale
 
 **Full Stack Web Developer** | JavaScript | React | Node.js | Firebase | Express | Git & GitHub | Wordpree | Woocoomerece | Tailwind CSS
 
